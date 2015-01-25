@@ -1,4 +1,4 @@
-package com.mountainwind.helloworld;
+package com.mountainwind.myfirstapp;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
